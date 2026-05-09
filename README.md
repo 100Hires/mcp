@@ -122,7 +122,7 @@ Compatible clients discover the OAuth metadata automatically — no manual API k
 ## Status & registry
 
 - Listed in the [Official MCP Registry](https://registry.modelcontextprotocol.io/v0/servers/com.100hires%2F100hires/versions/latest) as `com.100hires/100hires`
-- Listed on [Glama](https://glama.ai/mcp/servers)
+- Listed on [Glama](https://glama.ai/mcp/connectors/com.100hires/100hires)
 - Submitted to [PulseMCP](https://www.pulsemcp.com/), [mcp.directory](https://mcp.directory/), [LobeHub](https://lobehub.com/mcp), [MCP Server Finder](https://mcpserverfinder.com/), and [Smithery](https://smithery.ai/)
 
 ## Support

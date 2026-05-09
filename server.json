@@ -3,7 +3,7 @@
   "name": "com.100hires/100hires",
   "title": "100Hires",
   "description": "Official MCP server for 100Hires ATS: candidates, jobs, applications, interviews, messages.",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "websiteUrl": "https://100hires.com/mcp",
   "repository": {
     "url": "https://github.com/100Hires/mcp",
