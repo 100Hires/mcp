@@ -2,6 +2,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Official MCP Registry](https://img.shields.io/badge/MCP%20Registry-com.100hires%2F100hires-blue)](https://registry.modelcontextprotocol.io/v0/servers/com.100hires%2F100hires/versions/latest)
+[![smithery badge](https://smithery.ai/badge/100hires/mcp-server)](https://smithery.ai/servers/100hires/mcp-server)
 
 Official [Model Context Protocol](https://modelcontextprotocol.io/) server for [100Hires](https://100hires.com) — the applicant tracking system for recruiting teams.
 
