@@ -1,0 +1,6 @@
+.DS_Store
+*.pem
+*.key
+key.pub
+txt-record.txt
+.idea

@@ -1,0 +1,14 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "com.100hires/100hires",
+  "title": "100Hires",
+  "description": "Official MCP server for 100Hires ATS: candidates, jobs, applications, interviews, messages.",
+  "version": "1.0.0",
+  "websiteUrl": "https://100hires.com/mcp",
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://mcp.100hires.com/mcp"
+    }
+  ]
+}
